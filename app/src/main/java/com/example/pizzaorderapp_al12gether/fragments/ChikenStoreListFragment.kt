@@ -7,14 +7,14 @@ import android.view.ViewGroup
 import androidx.fragment.app.Fragment
 import com.example.pizzaorderapp_al12gether.R
 
-class PizzaStoreListFragment : Fragment(){
+class ChikenStoreListFragment : Fragment(){
 
     override fun onCreateView(
         inflater: LayoutInflater,
         container: ViewGroup?,
         savedInstanceState: Bundle?
     ): View? {
-        return inflater.inflate(R.layout.fragment_chiken_store_list, container, false)
+        return inflater.inflate(R.layout.fragment_pizza_store_list, container, false)
 
     }
 
