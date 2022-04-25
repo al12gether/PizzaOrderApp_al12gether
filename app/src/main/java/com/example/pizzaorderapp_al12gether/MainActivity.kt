@@ -27,8 +27,7 @@ class MainActivity : BaseActivity() {
         
 //        탭레이이아웃과 연결
         
-        mainTabLayout.setupWithViewPager(
-        )
+//        mainTabLayout.setupWithViewPager()
         
     }
 
